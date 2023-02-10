@@ -53,9 +53,17 @@
 #     print(n)
 
 """6"""
+#
+# def int_func(text):
+#     for i in range(len(text)):
+#         text[i] = text[i].title()
+#     return text
+#
+# text = input("Введите текст ").split()
+# print(" ".join(int_func(text)))
+#
+#
 
-def int_func():
-    
 
 
 
